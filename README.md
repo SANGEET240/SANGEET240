@@ -15,7 +15,7 @@ I'm a Computer Science Engineering graduate currently diving deep into the world
 
 ## Connect with Me&nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Chat.png" width="30px">
 
-<a href="www.linkedin.com/in/sangeet-biswas">
+<a href="https://www.linkedin.com/in/sangeet-biswas">
     <img align="left" alt="Sangeet Biswas | Linkedin" width="24px" src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Linkedin.png" />
   </a> &nbsp;&nbsp;
   <a href="mailto:ssangeet2002@gmail.com">
