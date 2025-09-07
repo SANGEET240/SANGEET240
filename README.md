@@ -22,10 +22,6 @@ opencv,flask,docker,html,css,git,nodejs,mysql,mongodb,react,vue,fastapi,github,t
 
 ## GitHub Stats
 
-🔹 **Public Repos**: 7  
-🔹 **Followers**: 2  
-🔹 **Following**: 7  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANGEET240&show_icons=true&theme=radical)
 
 ## Recent Activity
