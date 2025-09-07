@@ -13,5 +13,5 @@ I'm a Computer Science Engineering graduate currently diving deep into the world
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANGEET240&show_icons=true&theme=radical)
 
-## Connect with Me
+## Connect with Me <img src="" height="40px">
 
