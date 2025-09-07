@@ -8,9 +8,6 @@
 ## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Question.gif" width="40px"> About Me 
 
 I'm a Computer Science Engineering graduate currently diving deep into the world of technology. Based in India, I focus on creating innovative solutions through programming. I'm always eager to learn and explore new technologies.
-<p align="center">
-  <img src="https://github.com/SANGEET240/SANGEET240/blob/main/images/Desktop.gif" width="100%" title="Desk Gif" alt="Desk Gif">
-</p>
 
 ## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Stats.png" width="40px"> GitHub Stats
 
