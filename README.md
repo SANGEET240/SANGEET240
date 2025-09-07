@@ -5,7 +5,9 @@
 &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Hello.gif" width="50px">Hey, I’m 
 **Sangeet** — a passionate CSE Engineer from India. I love experimenting, building, and sometimes breaking things just to learn better. Always curious, always creative and always looking for smarter solutions.
 
-## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Question2.gif" width="40px">About Me
+## <h3 align="left">
+  <img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Question.gif" width="25" style="vertical-align:middle;"/> About Me
+</h3>
 
 I'm a Computer Science Engineering graduate currently diving deep into the world of technology. Based in India, I focus on creating innovative solutions through programming. I'm always eager to learn and explore new technologies.
 
