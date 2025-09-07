@@ -9,12 +9,11 @@
 
 I'm a Computer Science Engineering graduate currently diving deep into the world of technology. Based in India, I focus on creating innovative solutions through programming. I'm always eager to learn and explore new technologies.
 
-## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Stats.png" width="30px">GitHub Stats
+## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Stats.png" width="40px">GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANGEET240&show_icons=true&theme=radical)
 
-## Connect with Me&nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Chat.png" width="30px">
-
+## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Chat.png" width="30px">Connect with Me
 <a href="https://www.linkedin.com/in/sangeet-biswas">
     <img align="left" alt="Sangeet Biswas | Linkedin" width="40px" src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Linkedin.png" />
   </a> &nbsp;&nbsp;
