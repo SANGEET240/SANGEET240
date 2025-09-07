@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/SANGEET240/SANGEET240/blob/main/HelloWorld.jpg" width="100%" title="Hello World" alt="Hello World">
+  <img src="https://github.com/SANGEET240/SANGEET240/blob/main/images/HelloWorld.jpg" width="100%" title="Hello World" alt="Hello World">
 </p>
 
-&nbsp;<img src="" width="30px">I'm **SANGEET!**, a passionate **CSE Engineer** from **India**. I love building and breaking things, always ready to bring solutions in a creative way! Let's create some magic together! 🔭
+&nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Hello.gif" width="30px">I'm **SANGEET!**, a passionate **CSE Engineer** from **India**. I love building and breaking things, always ready to bring solutions in a creative way! Let's create some magic together! 🔭
 
 ## About Me
 
