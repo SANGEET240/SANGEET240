@@ -2,8 +2,15 @@
   <img src="https://github.com/SANGEET240/SANGEET240/blob/main/images/HelloWorld0.jpg" width="100%" title="Hello world" alt="Hello world">
 </p>
 
-&nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Hello.gif" width="50px"> I’m 
-**Sangeet** — a passionate CSE Engineer from India. I love experimenting, building, and sometimes breaking things just to learn better. Always curious, always creative and always looking for smarter solutions.
+&nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Hello.gif" width="50px"> <div align="center">
+
+  <p style="font-family: 'Courier New', monospace; font-size: 16px;">
+    I’m a Computer Science Engineering graduate currently diving deep into the world of technology. <br>
+    Based in India, I focus on creating innovative solutions through programming. <br>
+    I’m always eager to learn and explore new technologies.
+  </p>
+
+</div>
 
 ## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Question.gif" width="40px"> About Me 
 
