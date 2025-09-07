@@ -13,7 +13,7 @@ I'm a Computer Science Engineering graduate currently diving deep into the world
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANGEET240&show_icons=true&theme=radical)
 
-## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/ChatAnimation.gif" width="30px"> Connect with Me
+## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/ChatAnimation1.gif" width="30px"> Connect with Me
 <a href="https://www.linkedin.com/in/sangeet-biswas">
     <img align="left" alt="Sangeet Biswas | Linkedin" width="40px" src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Linkedin.png" />
   </a> &nbsp;&nbsp;
