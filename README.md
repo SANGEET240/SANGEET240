@@ -22,5 +22,5 @@ I'm a Computer Science Engineering graduate currently diving deep into the world
   </a>
 
 <p align="center">
-  <img src="https://github.com/SANGEET240/SANGEET240/blob/main/images/EndLine.png" width="100%" title="End Line" alt="End Line">
+  <img src="https://github.com/SANGEET240/SANGEET240/blob/main/images/EndLine0.png" width="100%" title="End Line" alt="End Line">
 </p>
