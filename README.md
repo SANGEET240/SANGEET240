@@ -2,7 +2,7 @@
   <img src="https://github.com/SANGEET240/SANGEET240/blob/main/images/HelloWorld.jpg" width="100%" title="Hello World" alt="Hello World">
 </p>
 
-&nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Hello.gif" width="50px">Hey, I’m 
+&nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Hello.gif" width="50px"> I’m 
 **Sangeet** — a passionate CSE Engineer from India. I love experimenting, building, and sometimes breaking things just to learn better. Always curious, always creative and always looking for smarter solutions.
 
 ## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Question.gif" width="40px"> About Me 
