@@ -9,10 +9,6 @@
 
 I'm a Computer Science Engineering graduate currently diving deep into the world of technology. Based in India, I focus on creating innovative solutions through programming. I'm always eager to learn and explore new technologies.
 
-## Skills & Technologies
-
-opencv,flask,docker,html,css,git,nodejs,mysql,mongodb,react,vue,fastapi,github,tailwind,linux
-
 ## Top Projects
 
 - [**Clown-Face-Filter**](https://github.com/SANGEET240/Clown-Face-Filter) - Clownify yourself in real-time using a Python filter that utilizes Mediapipe & OpenCV. 🤡 Stars: 0, Language: Python
