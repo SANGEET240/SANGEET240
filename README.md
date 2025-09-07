@@ -5,10 +5,15 @@
 &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Hello.gif" width="50px">Hey, I’m 
 **Sangeet** — a passionate CSE Engineer from India. I love experimenting, building, and sometimes breaking things just to learn better. Always curious, always creative and always looking for smarter solutions.
 
-## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Question.gif" width="40px"> About Me 
-  <img align="right" alt="GIF" src="https://github.com/SANGEET240/SANGEET240/blob/main/images/Typing.gif">
+## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Question.gif" width="40px"> About Me
 
-I'm a Computer Science Engineering graduate currently diving deep into the world of technology. Based in India, I focus on creating innovative solutions through programming. I'm always eager to learn and explore new technologies.
+<p align="left">
+  I’m a Computer Science Engineering graduate currently diving deep into the world of technology.  
+  Based in India, I focus on creating innovative solutions through programming.  
+  I’m always eager to learn and explore new technologies.
+</p>
+
+<img align="right" src="https://github.com/SANGEET240/SANGEET240/blob/main/images/Typing.gif" width="250" />
 
 ## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Stats.png" width="40px"> GitHub Stats
 
