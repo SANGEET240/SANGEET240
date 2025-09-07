@@ -18,5 +18,5 @@ I'm a Computer Science Engineering graduate currently diving deep into the world
     <img align="left" alt="Sangeet Biswas | Linkedin" width="40px" src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Linkedin.png" />
   </a> &nbsp;&nbsp;
   <a href="mailto:ssangeet2002@gmail.com">
-    <img align="left" alt="Sangeet Biswas | Gmail" width="50px" src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Gmail03.png" />
+    <img align="left" alt="Sangeet Biswas | Gmail" width="50px" src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Gmail003.png" />
   </a>
