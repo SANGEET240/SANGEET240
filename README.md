@@ -20,7 +20,3 @@ I'm a Computer Science Engineering graduate currently diving deep into the world
   <a href="mailto:ssangeet2002@gmail.com">
     <img align="left" alt="Sangeet Biswas | Gmail" width="50px" src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Gmail2.png" />
   </a>
-
-<p align="center">
-  <img src="https://github.com/SANGEET240/SANGEET240/blob/main/images/EndLine0.png" width="100%" title="End Line" alt="End Line">
-</p>
