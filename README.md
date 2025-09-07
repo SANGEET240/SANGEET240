@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SANGEET240/SANGEET240/blob/main/images/HelloWorld.jpg" width="100%" title="Hello world" alt="Hello world">
+  <img src="https://github.com/SANGEET240/SANGEET240/blob/main/images/HelloWorld0.jpg" width="100%" title="Hello world" alt="Hello world">
 </p>
 
 &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Hello.gif" width="50px"> I’m 
