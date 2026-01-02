@@ -23,4 +23,7 @@ I'm a Computer Science Engineering graduate currently diving deep into the world
   <a href="https://x.com/Sangeet024">
     <img align="left" alt="Sangeet Biswas | X" width="40px" src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/X.png" />
   </a>
-[![Discord](https://img.shields.io/badge/Discord-sangeet8484-5865F2?logo=discord&logoColor=white)](https://discord.com/users/sangeet8484)
+<a href="https://discord.com/users/sangeet8484">
+  <img align="left" alt="Discord"
+       src="https://img.shields.io/badge/Discord-sangeet8484-5865F2?logo=discord&logoColor=white" />
+</a>
