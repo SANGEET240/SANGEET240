@@ -11,7 +11,7 @@ I'm a Computer Science Engineering graduate currently diving deep into the world
 
 ## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/Stats.png" width="40px"> GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANGEET240&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SANGEET240&theme=merko)
 
 ## &nbsp;<img src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/ChatAnimation1.gif" width="30px"> Connect with Me
 <a href="https://www.linkedin.com/in/sangeet-biswas">
