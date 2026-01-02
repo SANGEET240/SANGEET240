@@ -25,5 +25,5 @@ I'm a Computer Science Engineering graduate currently diving deep into the world
   </a>
 <a href="https://discord.com/users/sangeet8484">
   <img align="left" alt="Discord"
-       src="https://img.shields.io/badge/Discord-sangeet8484-5865F2?logo=discord&logoColor=white" />
+       src="https://github.com/SANGEET240/SANGEET240/blob/main/Emojis/discord.png" />
 </a>
